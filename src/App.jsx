@@ -1,6 +1,6 @@
 
 import './App.css'
-import HigherOrderFunction from './Component/HigherOrderFunction'
+import HigherOrderFunction from './component/HigherOrderFunction'
 function App() {
 
   return (
